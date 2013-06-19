@@ -1,0 +1,9 @@
+Building Xencoin
+
+See doc/readme-qt.rst for instructions on building Xencoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Xencoin.
+
+See doc/build-*.txt for instructions on building xencoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Xencoin.
