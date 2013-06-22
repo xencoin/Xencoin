@@ -1,4 +1,4 @@
-Xencoin - a fork of Litecoin version with fast block time and faster confirmations (4 confirmations needed instead of 6). Like Litecoin it uses scrypt as a proof of work scheme.
+Xencoin - a fork of Litecoin version with fast block time and faster confirmations (6 confirmations needed). Like Litecoin it uses scrypt as a proof of work scheme.
 
 	- 20 seconds block target
 	- Difficulty retargets every 0.40 day
