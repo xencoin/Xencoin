@@ -1,0 +1,9 @@
+The aim of this Xencoin (XNC) fork will be to keep this coin going long after it's abandonment by the original developer.
+
+The proposed plan is 3 stages.
+
+1) Get checkpoints added to the original build (minor rev.)
+
+2) Use latest libraries for build along with SSL (major rev.) - old wallets to become obsolete after this.
+
+3) Upgrade to the latest Litecoin protocol.
